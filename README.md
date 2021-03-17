@@ -12,7 +12,4 @@ Me chamo João Vitor, nasci em Nova Friburgo e sou o melhor jogador de Teamfight
 * **Links:**
 [Linkedin](https://www.linkedin.com/in/joão-vitor-8778121a2/)
 ***
-## Curiosidades
-* Estudei e toquei flauta transversal durante 2 anos
-* Cheguei até a faixa laranja no Karatê 
-* Gosto de Jujutsu Kaisen
+
