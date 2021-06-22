@@ -5,7 +5,7 @@ Me chamo João Vitor, nasci em Nova Friburgo e sou o melhor jogador de Teamfight
 
 ## Informações específicas 
 * **Nome:** João Vitor Alves
-* **Idade:** 19 anos
+* **Idade:** 20 anos
 * **Vivendo:** Nova Friburgo, Rio de Janeiro
 * **Stack:** JS, HTML e CSS(por enquanto) 
 * **Universidade:** Graduando em Sistemas de Informações no CEFET/RJ
