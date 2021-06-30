@@ -10,6 +10,6 @@ Me chamo João Vitor, nasci em Nova Friburgo e sou o melhor jogador de Teamfight
 * **Stack:** JS, HTML e CSS(por enquanto) 
 * **Universidade:** Graduando em Sistemas de Informações no CEFET/RJ
 * **Links:**
-[Linkedin](https://www.linkedin.com/in/jo%C3%A3ovitor1/)
+[Linkedin](https://www.linkedin.com/in/joao-vitor1/)
 ***
 
