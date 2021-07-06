@@ -29,7 +29,6 @@
 - 📫 How to reach me **joaovitor1611@outlook.com**
 
 - ⚡ Fun fact **I play League Of Legends**
-- 
 
 
 <h3 align="left">Languages and Tools:</h3>
