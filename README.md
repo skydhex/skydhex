@@ -15,10 +15,10 @@ Me chamo João Vitor, nasci em Nova Friburgo e sou o melhor jogador de Teamfight
 
 <details>
   <summary>:zap: Github Stats</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)">
+   <img src="https://github-readme-stats.vercel.app/api?username=skydhex&theme=dark&show_icons=true)">
 </details>
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skydhex&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)">
 </details>
