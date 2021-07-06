@@ -32,7 +32,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydhex&show_icons=true&theme=dark&hide_border=true&cache_seconds=2&locale=en&layout=compact" alt="skydhex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skydhex&show_icons=true&theme=dark&hide_border=true&cache_seconds=3&locale=en&layout=compact" alt="skydhex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydhex&show_icons=true&theme=dark&hide_border=true&cache_seconds=2&locale=en" alt="skydhex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skydhex&show_icons=true&theme=dark&hide_border=true&cache_seconds=3&locale=en" alt="skydhex" /></p>
 
