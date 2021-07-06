@@ -13,4 +13,12 @@ Me chamo João Vitor, nasci em Nova Friburgo e sou o melhor jogador de Teamfight
 [Linkedin](https://www.linkedin.com/in/joao-vitor1/)
 ***
 
-[![Joao's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skydhex&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/skydhex?tab=repositories)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=skydhex&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skydhex&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
