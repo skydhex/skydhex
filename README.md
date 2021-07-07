@@ -1,5 +1,5 @@
 <h1>Hello there 👋</h1>
-<h3> i'm João, i have 20 years old, i'm from Brazil and Information Systems student</h3>
+<h3> i'm João, i'm 20 years old, i'm from Brazil and Information Systems student</h3>
 
 <div>
     <a target='_blank'href="https://twitter.com/skydhex">
